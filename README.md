@@ -13,7 +13,7 @@
 # Деплой
 
 ```bash
-git clone https://github.com/Unkown496/next-admin-demo.git <folder-name>
+git clone https://github.com/Unkown496/next-admin.git <folder-name>
 cd <folder-name>
 git remote remove origin # Отвязка от исходного репозитория
 cp .env.example .env # Заполните .env
